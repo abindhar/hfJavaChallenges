@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5c1249e-7008-42b2-8e5e-c8a5231dd2dc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b8w5BKLR8mQs0BGIWyc3v8HBON" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../github_algorithms/algorithms" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.SortMountains">
+    <configuration name="Chapter7" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Chapter7" />
+      <module name="Basics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConstructorDemo" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ConstructorChaining" />
+      <module name="Basics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JukeBox" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="JukeBox" />
+      <module name="Basics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortMountains" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SortMountains" />
+      <module name="Basics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BasicTest" />
+      <module name="Basics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Wrapping" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="WrappingDemo" />
+      <module name="Basics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.JukeBox" />
+      <item itemvalue="Application.SortMountains" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Chapter7" />
+      <item itemvalue="Application.ConstructorDemo" />
+      <item itemvalue="Application.Wrapping" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5c1249e-7008-42b2-8e5e-c8a5231dd2dc" name="Default Changelist" comment="" />
+      <created>1588026843041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588026843041</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="119" key="#Project_Structure" timestamp="1588026854544">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="447" y="119" key="#Project_Structure/0.0.1707.920@0.0.1707.920" timestamp="1588026854544" />
+    <state x="310" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588446521966">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="310" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.920@0.0.1707.920" timestamp="1588446521966" />
+    <state x="660" y="170" key="#com.intellij.ide.util.MemberChooser" timestamp="1588446660258">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="660" y="170" key="#com.intellij.ide.util.MemberChooser/0.0.1707.920@0.0.1707.920" timestamp="1588446660258" />
+    <state x="584" y="244" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588446518887">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="584" y="244" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1707.920@0.0.1707.920" timestamp="1588446518887" />
+    <state x="635" y="215" key="FileChooserDialogImpl" timestamp="1588302509086">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="635" y="215" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1588302509086" />
+    <state width="1664" height="195" key="GridCell.Tab.0.bottom" timestamp="1588446858761">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1664" height="195" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1588446858761" />
+    <state width="1664" height="195" key="GridCell.Tab.0.center" timestamp="1588446858761">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1664" height="195" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1588446858761" />
+    <state width="1664" height="195" key="GridCell.Tab.0.left" timestamp="1588446858760">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1664" height="195" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1588446858760" />
+    <state width="1664" height="195" key="GridCell.Tab.0.right" timestamp="1588446858761">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1664" height="195" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1588446858761" />
+    <state x="552" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1588287343036">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="552" y="284" key="com.intellij.ide.util.TipDialog/0.0.1707.920@0.0.1707.920" timestamp="1588287343036" />
+    <state x="516" y="196" width="672" height="678" key="search.everywhere.popup" timestamp="1588125548816">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="516" y="196" width="672" height="678" key="search.everywhere.popup/0.0.1707.920@0.0.1707.920" timestamp="1588125548816" />
+  </component>
+</project>
